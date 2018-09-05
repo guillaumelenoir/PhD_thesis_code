@@ -1,0 +1,5 @@
+From the highest to the lowest eigenvalue:
+0.00172748521
+0.00301959115
+0.00430850625
+0.0056105807
